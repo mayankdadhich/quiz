@@ -1,0 +1,26 @@
+.challenge-list {
+    margin-top: 20px;
+  }
+  p{
+    font-size: 14px;
+  }
+  .open-box{
+    position: absolute;
+    left: 0;
+    width: auto !important;
+    display: block;
+    top: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    color:#4c6ef5;
+  }
+  .card-box>.row{
+    padding: 40px 40px;
+    position: relative;   
+    border-radius: 10px;
+    box-shadow: 0 0 10px 1px #d3d3d3;
+  }
+  .card-box:first-child>.row{
+    border: 1px solid #ddd;
+  }
+  
